@@ -25,3 +25,9 @@ sudo apt install firefox -y
 ### 3. 插件记录
 
 Tabliss
+
+## 二、Kazam
+
+```bash
+sudo apt-get install kazam
+```
